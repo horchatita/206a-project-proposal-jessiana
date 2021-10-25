@@ -18,7 +18,7 @@ _**This is what is not working:**_ We are behind in our data collection and figu
 ## Data Update
 _**We have this data so far:**_
 - [Walkscore LA](https://data.lacounty.gov/Sustainability/Walk-Score-2019-/nnyu-hjy4): Walk Score is a service that grades the “walkability” of select geographies. This dataset includes incorporated and unincorporated cities of Los Angeles County and their respective walk scores.
-- [National Housing Preservation Database](): A project of the Public and Affordable Housing Research Corporation (PAHRC) and the National Low Income Housing Coalition (NLIHC), this database details “information on contract expiration dates, loan maturity dates, recent physical inspection scores, number of units, type of owner, and other property and subsidy characteristics.” 
+- [National Housing Preservation Database](https://docs.google.com/spreadsheets/d/1iwpqgqjlHOY2H8brdg1ad5BNF_5Zn_0w/edit#gid=1976688684): A project of the Public and Affordable Housing Research Corporation (PAHRC) and the National Low Income Housing Coalition (NLIHC), this database details “information on contract expiration dates, loan maturity dates, recent physical inspection scores, number of units, type of owner, and other property and subsidy characteristics.” We are showing this in a Google sheet because the database is restricted to registered users.
 - [LA County City Boundaries](https://hub.arcgis.com/datasets/lacounty::la-county-city-boundaries/explore?location=33.784400%2C-118.302300%2C8.55): This file provides city boundaries of cities across LA County.
 
 _**This is the data that we need / want:**_
